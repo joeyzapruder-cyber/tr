@@ -1,0 +1,6 @@
+{
+  "name": "App Architect",
+  "description": "An AI-powered tool that analyzes market data and generates PWA configurations based on app ideas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
